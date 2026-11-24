@@ -1,7 +1,7 @@
 {
-  "version": "0.6.22",
-  "size_bytes": 4931331,
-  "sha256": "816a1c413325c5f75f6cd53066c9bfee609d920ae9d1cf3f0bf326da6cea1ecb",
-  "installer_url": "https://github.com/qxxless/safina-browser-downloads/releases/download/v0.6.22/Safina-Setup-0.6.22-x64.exe",
-  "signature": "0LQ/W8LzOV3FqHkgAtqz1VDGPnCUvWYMC73matgE154vxXtk8hJmmAXl4/agPS6i+rapXsSg85OpIaMFSAhzDg=="
+  "version": "0.6.23",
+  "installer_url": "https://github.com/qxxless/safina-browser-downloads/releases/download/v0.6.23/Safina-Setup-0.6.23-x64.exe",
+  "size_bytes": 4931178,
+  "sha256": "92ca759eb548b5596cc8c056fa28ba8594bbc7ad21fdfa2ffe622797e818c626",
+  "signature": "GX5+mdMxhrDEeciKyVK6b1LSsg8+l8WVosw12cWvwXPeqlDK1VS/UzaicCHSIeS5QtPDC1BN36ZPoqJjoSQ4Bg=="
 }
