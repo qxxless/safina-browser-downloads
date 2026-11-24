@@ -2,15 +2,15 @@
 
 **Браузер для Windows x64 на Rust с упором на экономию оперативной памяти.** Интерфейс и управление вкладками написаны для Safina, а сайты открываются через Microsoft WebView2 на базе Chromium.
 
-[Скачать Safina 0.6.16 для Windows](https://github.com/qxxless/safina-browser-downloads/releases/download/v0.6.16/Safina-0.6.16.exe) · [Все версии](https://github.com/qxxless/safina-browser-downloads/releases) · [Диагностика и конфиденциальность](PRIVACY.md)
+[Установщик Safina для Windows](https://github.com/qxxless/safina-browser-downloads/releases/download/v0.6.16/Safina-Setup-0.6.16-x64.exe) · [Портативный EXE](https://github.com/qxxless/safina-browser-downloads/releases/download/v0.6.16/Safina-0.6.16.exe) · [Все версии](https://github.com/qxxless/safina-browser-downloads/releases) · [Диагностика и конфиденциальность](PRIVACY.md)
 
 ## Как запустить
 
-1. Скачайте и запустите `Safina-0.6.16.exe`. Это портативная бета-версия без установщика.
+1. Запустите `Safina-Setup-0.6.16-x64.exe`. Он установит Safina для текущего пользователя и добавит ярлык в меню «Пуск». Ярлык на рабочем столе можно выбрать во время установки.
 2. При первом запуске выберите расположение вкладок, тему и режим памяти.
-3. Если Safina сообщит, что WebView2 отсутствует, установите **Evergreen Bootstrapper** от Microsoft и снова запустите EXE. Обычно компонент уже есть в Windows 11 и на обновлённых Windows 10. [Скачать WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section)
+Установщик проверяет WebView2 и скачивает его через официальный компонент Microsoft только при необходимости. Для этого потребуется интернет. Если запускаете портативный EXE на компьютере без WebView2, установите компонент отдельно. [Скачать WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section)
 
-Текущий EXE распространяется без подписи издателя. SHA-256 указан на странице релиза. Обновление портативной версии выполняется вручную. Закройте Safina и запустите EXE новой версии под той же учётной записью Windows, чтобы использовать существующий профиль.
+Установщик и портативный EXE распространяются без подписи издателя. SHA-256 указаны на странице релиза. Для обновления закройте Safina и запустите новую версию установщика или портативного EXE под той же учётной записью Windows. При удалении через «Установленные приложения» профиль пользователя сохраняется.
 
 ## Как Safina экономит память
 
