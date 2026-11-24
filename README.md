@@ -2,11 +2,11 @@
 
 **Браузер для Windows x64 на Rust с упором на экономию оперативной памяти.** Интерфейс и управление вкладками написаны для Safina, а сайты открываются через Microsoft WebView2 на базе Chromium.
 
-[Установщик Safina для Windows](https://github.com/qxxless/safina-browser-downloads/releases/download/v0.6.22/Safina-Setup-0.6.22-x64.exe) · [Все версии](https://github.com/qxxless/safina-browser-downloads/releases) · [Диагностика и конфиденциальность](PRIVACY.md)
+[Установщик Safina для Windows](https://github.com/qxxless/safina-browser-downloads/releases/download/v0.6.23/Safina-Setup-0.6.23-x64.exe) · [Все версии](https://github.com/qxxless/safina-browser-downloads/releases) · [Диагностика и конфиденциальность](PRIVACY.md)
 
 ## Как запустить
 
-1. Запустите `Safina-Setup-0.6.22-x64.exe`. Он установит Safina для текущего пользователя и добавит ярлык в меню «Пуск». Ярлык на рабочем столе можно выбрать во время установки.
+1. Запустите `Safina-Setup-0.6.23-x64.exe`. Он установит Safina для текущего пользователя и добавит ярлык в меню «Пуск». Ярлык на рабочем столе можно выбрать во время установки.
 2. При первом запуске выберите расположение вкладок, тему и режим памяти.
 Установщик проверяет WebView2 и скачивает его через официальный компонент Microsoft только при необходимости. Для этого потребуется интернет. [Скачать WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section)
 
@@ -56,6 +56,7 @@ Safina может отправлять разработчику счётчики
 При сообщении о баге укажите версию Safina, версию Windows и шаги, на которых он повторяется. Версию браузера и локальную сводку можно посмотреть в разделе **«О браузере»**.
 
 Этот репозиторий содержит публичные сборки и документацию Safina.
+
 
 
 
