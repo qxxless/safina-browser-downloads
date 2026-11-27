@@ -1,7 +1,7 @@
 {
-  "version": "0.7.0",
-  "size_bytes": 4940501,
-  "installer_url": "https://github.com/qxxless/safina-browser-downloads/releases/download/v0.7.0/Safina-Setup-0.7.0-x64.exe",
-  "sha256": "279c5fd32cde3162621adf1af0905c4a819da57ab70ec76f89e61659d594281a",
-  "signature": "1bQDWFG/CX4rXFwcRRFLalrLMjXiXxm7DxQOmRKZJRoD5aReE0V6k2P3x8Et3LqmjybVlJBr+ZJbwd1/ERE9Ag=="
+  "version": "0.7.1",
+  "installer_url": "https://github.com/qxxless/safina-browser-downloads/releases/download/v0.7.1/Safina-Setup-0.7.1-x64.exe",
+  "sha256": "376940c412f4340ece0f933ad76f63114b97979ed7a88af5b47d05519a18df57",
+  "size_bytes": 5024771,
+  "signature": "WSfab6Y4wFZyBNDD0/wtDBhl9S0glYE45N8PtMmX9U6rf6N31Y0C4meKw4bMTFn6f1+xhWpz3G/YA5fW4CNgCw=="
 }
