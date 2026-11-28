@@ -2,13 +2,13 @@
 
 **Браузер для Windows x64 на Rust с упором на экономию оперативной памяти.** Интерфейс и управление вкладками написаны для Safina, а сайты открываются через Microsoft WebView2 на базе Chromium.
 
-[Установщик Safina для Windows](https://github.com/qxxless/safina-browser-downloads/releases/download/v0.7.4/Safina-Setup-0.7.4-x64.exe) · [Все версии](https://github.com/qxxless/safina-browser-downloads/releases) · [Диагностика и конфиденциальность](PRIVACY.md)
+[Установщик Safina для Windows](https://github.com/qxxless/safina-browser-downloads/releases/download/v0.7.5/Safina-Setup-0.7.5-x64.exe) · [Все версии](https://github.com/qxxless/safina-browser-downloads/releases) · [Диагностика и конфиденциальность](PRIVACY.md)
 
 ![Стартовая страница Safina с вертикальными вкладками и ярлыками сайтов](docs/images/safina-home.png)
 
 ## Как запустить
 
-1. Запустите `Safina-Setup-0.7.4-x64.exe`. Он установит Safina для текущего пользователя и добавит ярлык в меню «Пуск». Ярлык на рабочем столе можно выбрать во время установки.
+1. Запустите `Safina-Setup-0.7.5-x64.exe`. Он установит Safina для текущего пользователя и добавит ярлык в меню «Пуск». Ярлык на рабочем столе можно выбрать во время установки.
 2. При первом запуске выберите расположение вкладок, тему и режим памяти.
 Установщик проверяет WebView2 и скачивает его через официальный компонент Microsoft только при необходимости. Для этого потребуется интернет. [Скачать WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section)
 
